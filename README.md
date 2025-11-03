@@ -59,7 +59,7 @@ Performance metrics on held-out test set (20% of data):
 ### Running in Google Colab
 
 1. Clone this repository or download the notebook file
-2. Upload `automated_mlops_framework_for_customer_churn_prediction.ipynb` to Google Colab
+2. Upload `Automated MLOps Framework for Customer Churn Prediction.ipynb` to Google Colab
 3. Select Runtime > Change runtime type > A100 GPU (or T4 GPU for free tier)
 4. Run all cells sequentially
 
@@ -86,7 +86,7 @@ jupyter notebook "Automated MLOps Framework for Customer Churn Prediction.ipynb"
 ## Project Structure
 
 ```
-├── automated_mlops_framework_for_customer_churn_prediction.ipynb
+├── Automated MLOps Framework for Customer Churn Prediction.ipynb
 ├── README.md
 ├── LICENSE
 └── .gitignore
