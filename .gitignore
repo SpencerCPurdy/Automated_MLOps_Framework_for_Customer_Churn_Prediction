@@ -205,3 +205,64 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific: Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.parquet
+
+# Project-specific: Model files
+models/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pb
+*.pth
+*.pt
+*.onnx
+*.tflite
+
+# Project-specific: MLOps database files
+mlops.db
+mlops.db-journal
+
+# Project-specific: Logs and outputs
+logs/
+output/
+results/
+
+# Project-specific: Checkpoints and cache
+checkpoints/
+*.ckpt
+model_cache/
+cache/
+
+# Project-specific: Gradio temporary files
+gradio_cached_examples/
+flagged/
+
+# Project-specific: Optuna study databases
+optuna_study.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
