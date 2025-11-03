@@ -73,14 +73,14 @@ The notebook will automatically:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SpencerCPurdy/automated-mlops-customer-churn.git
-cd automated-mlops-customer-churn
+git clone https://github.com/SpencerCPurdy/Automated_MLOps_Framework_for_Customer_Churn_Prediction.git
+cd Automated_MLOps_Framework_for_Customer_Churn_Prediction
 
 # Install dependencies
 pip install pandas numpy scikit-learn xgboost lightgbm optuna shap imbalanced-learn gradio plotly seaborn matplotlib scipy joblib
 
 # Run the notebook
-jupyter notebook automated_mlops_framework_for_customer_churn_prediction.ipynb
+jupyter notebook "Automated MLOps Framework for Customer Churn Prediction.ipynb"
 ```
 
 ## Project Structure
