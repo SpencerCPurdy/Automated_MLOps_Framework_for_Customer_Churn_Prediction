@@ -1,15 +1,3 @@
----
-title: Automated MLOps Framework For Customer Churn Prediction
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-sdk_version: 6.6.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: MLOps platform with drift detection and model monitoring
----
-
 # Automated MLOps Framework for Customer Churn Prediction
 
 A comprehensive machine learning operations (MLOps) framework for predicting customer churn in the telecommunications industry. This project demonstrates end-to-end ML pipeline development including data preprocessing, model training, hyperparameter optimization, drift detection, and deployment with an interactive web interface.
